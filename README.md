@@ -14,7 +14,7 @@
 
    copy the code below in your terminal and hit enter.
 
-   `./sshKeyGen.sh`
+   ``./sshKeyGen.sh``
 
    When prompted to `Enter your github email` type your email eg. `example@gmail.com` then hit enter to continue.
 
