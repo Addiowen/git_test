@@ -19,5 +19,9 @@
    ```
 
    When prompted to `Enter your github email` type your email eg. `example@gmail.com` then hit enter to continue.
-
+   when prompted for `passphrase` hit enter.
+   when prompted for `confirm passphrase` hit enter again.
+   when prompted to `Enter file name to view key`, give your ssh key a name eg. `owen` then hit enter.
+   You will now be able to see your generated key in the terminal. copy the key and use it in your github website
+   to create a remote connection with your local machine.
    
